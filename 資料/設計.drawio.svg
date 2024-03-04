@@ -1,0 +1,183 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="903px" height="585px" viewBox="-0.5 -0.5 903 585" content="&lt;mxfile&gt;&lt;diagram id=&quot;0s265FpmcAxG_dfJ-cq0&quot; name=&quot;ロジック構成&quot;&gt;3Vltb5swEP41/tgKY17Mx5CXrdKmVaqmdR9pcBM0giPiNml//exw5iWYhrY0SydFyvl8NvZzD3dng8h4tfuSR+vldx6zFNlWvENkgmwbu64v/5TmqdBQGxSLPInBqFLcJM8MlBZoH5KYbQodqATnqUjWm8boOc8yNhcNXZTnfNs0u+dp86nraMEasyvFzTxKWcvsVxKLJezCrVl/ZcliqZ+MLehZRdoYFJtlFPNtTUWmiIxzzkUhrXZjlirwNC7FuFlHb7mwnGWiz4CgGPAYpQ+wt5vrGZoSRG00cvYCQSEBIXBBGMG4jXjSmOT8IYuZmtZCJNwuE8Fu1tFc9W4lC6RuKVapbGEpPrJcJBLPUZosMqkTXBlE0ErZvVx8CEuTpmzXuT1cgibZxviKifxJmsAA7RHgGSbQ3lZe87XNsuYxTxtGwJRFOXUFphQATzO2pBNbCSDWgq2FkUZbTuylCoC7XEqLCooPRXsjcv6npDMZBn+Cmw6wnbYDMDU4gAzhALvlAICYepriExDCQHdR3UWbjrGVqz4F6UvsNOi+2wbdMYCO8QCgu52g+xXBAfTZf4e1gw0E/zCsMWmhxGKZqaCZ8Yw1YSnMlc3L+5VT8od8rq1AJ6J8wUTt3WrDkrM0Esljc/p3bbGTT5CMJFc0sajOUxQbcfkW3clCpAGIZsRc7p/lBuKskjhWc4Q52yTP0d1+PkXANU8ysd+YGyJ38hKdoAyBwfWqogY7eZFn1iWmFLzdG2OY7VqttGbC7+830o2HTigf2s8vziupx3aJuAXslPxbyZcyNBXNya7WN3nSjUwu6FbPoBrFMFc3q2H7lh43HM873DI8zz0zz21dIUhBh8tQE75kfmgOBGdNeOcY4S2dwCG2XpwV/3Gnv14sm0Eo6w7ajF17L7fLP5gw7Bf6jg2HTGxXK4SULH/BseFvJuRZ5m/PPqiVXEP+tk352xsif3dWqIF1yCaqzwflQaFiAT40Hp3ixDAA/Bf4sFYNeuIfDAE/NcDvKaQVtC6iLhq5r01zOmNZzYxlf1DK8v9hympfHqApVfyE8Ib3Fb7EcYYCfeKS4J6kZDXggk9Ws/pduQGOmeXRpx55aTO81mJ6UIbXN6aNMMn6eaZn6N/nCVjS+HBr7fhUJR5SbfbIao++hmcZz/DhfcdJ04nxwqPtdg8FoWYQRnQyUITzPybClRe89cPnkawiw63n+Q1PBGdUOxrvSFz1UoSeEsKpSumnCJNGcE+VP/TDazBc/egX6T5jLHBoz1hQAvMucNvnEwVugEYWCqhiWTBTv08BJTm4x3d8A5SWAUpnCCTb9/g/rz4Hbq3y2jV8ABmqvJbN6rtVERWrr39k+hc=&lt;/diagram&gt;&lt;diagram id=&quot;tblSK1KidjzmpFxDkWZI&quot; name=&quot;クラス&quot;&gt;7Vltb+I4EP41luhJrfJClvAxBNhWotLqOO3eflq5iUmsmjhyDIX99TcOdgIksKUH7J2EFLWe8Yw9mWc8MzHIDeerzwLn6TOPCUOOFa+QO0SOY3teD/4pzlpzHEdzEkFjzasZU/qTaKaluQsak2JHUHLOJM13mRHPMhLJHR4Wgr/tis042901x4ne0aoZ0wgz0hD7RmOZbri+tyX9SGiSmp1tS8/MsRHWjCLFMX/bYrkj5IaCc7kZzVchYcp7xi8bvfGB2cowQTL5HgX/lXiPy6/jyXdZTF++jXiS+vd6lSVmC/3Cc0yzhwiFDgqM4XJtvFG80TnDGVCDGc/kVM9YQEcpZfEEr/lCWVNIHL0aapByQX+CPGYwZQMDpoXUYDuf1GqUsZAzLoCR8XKDWmmqFtPbCFKA2hfz1vYe6xmvdgQnuJDGQM4Yzgv6UpqsFOdYJDQbcCn5XAsVUvDXCmkXONpBREiyOuh5u8ITTgLhcyLFGkSMggkBcwg0+VYHlN3VvHQ7mEyUYR3ESbV0jTMMNNQnwO40YD8AOLy0rNyyB1ALZpjRJAOSkZlSU16jcJYCzZY8V4vlOKJZMillht2a86d+dcXioDtj5XlJaRyTTEHKJZb4pQq5nNNMlq7xBvCA9aH14CEPDA+BtmsaHiUuZMgzeBcIcbUPgeB4I4X8OO6Hz1QzGDT4EO7vA9/pXgj8fhP8kYt8F/W9cgCB0NecQWimRnoAjx74aOQhf6zkRz7yLcXcDx8SQzLVpDnWcm6yALhRrP/WYJbEd0UAZJocrrYnh2tNbbZRax8/kGAKX4iIHPGFNhnSUUKOYeq3YyoIw5Iud+04O2BuA7Cpyp+LfMITGkGydqzOQ3p3y9Znydb3dv/X6dq/arruNgJAJTDHmnAR/wUZOhAEd5DKLK5dHpBNMm/8jVIs/lDhDjo/AESSqyaloedY1WDJaVxq8DyIY3G3JVybMISsfKoJMegcMeGonrLkGecffYNbifvXJc49ucS1HpiLlThzZP9DNa4irl7jvP9DjbObRU75vm8bfGDglmj00CDQnH7vRDR+g1ftA9XmOm71Gl59ymYC3xqHCzQOXfeXfYNz3b7hUwN9QATKFfAWm/JNVa1YRJLy7IsqNURsF9P9Yv+UURkyHr12qqqqu49HguNmcxDES5xFZKPyjiLftqoqdOr7+d3KphvZN2lreK8aCRLxmDzV79+525MI2tkZGDcmMko7t17iHL2Ed2ov0X6ILtZL9BqH6DPJiMDsIb0lzovcj9077m+/IfNbUqdKFMCb5rOttIF6A9Qb3jLBGTJB7+SviutenNnN2/K6m/qxKRfFrau6bFflWC1tlX3V3GC3XJ+rbxX4POyiUQ8FPgpG5jPTMYOxHgx6+usyMIOBW/VThYg2DY9hxIW8tRlnuZU/+Vq+Pao+kF2ArH/mK+e2fi11R/8A&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-315-272-132-124-0">
+            <rect x="315" y="272" width="132" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-5-272-172-124-0">
+            <rect x="5" y="272" width="172" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-625-272-272-124-0">
+            <rect x="625" y="272" width="272" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-315-32-132-124-0">
+            <rect x="315" y="32" width="132" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-625-462-202-124-0">
+            <rect x="625" y="462" width="202" height="124"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 311 267 L 311 241 L 451 241 L 451 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 311 267 L 311 391 L 451 391 L 451 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 267 L 451 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="380.5" y="258.5">
+                main.c
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-315-272-132-124-0)" font-size="12px"/>
+        <path d="M 163.69 241 L 306.57 93.57" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310.22 89.8 L 307.86 97.27 L 306.57 93.57 L 302.84 92.39 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 165px; margin-left: 237px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                フォーマット参考
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="237" y="168" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    フォーマット参考
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 267 L 1 241 L 181 241 L 181 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 267 L 1 391 L 181 391 L 181 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1 267 L 181 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="90.5" y="258.5">
+                StartupLogic.c (.h)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-5-272-172-124-0)" font-size="12px">
+            <text x="6.5" y="284.5">
+                int LordTextArea(
+            </text>
+            <text x="6.5" y="298.5">
+                char* text_filepath
+            </text>
+            <text x="6.5" y="312.5">
+                void* topAddr)
+            </text>
+            <text x="6.5" y="326.5">
+                int LordDataArea(
+            </text>
+            <text x="6.5" y="340.5">
+                char* data_filepath
+            </text>
+            <text x="6.5" y="354.5">
+                char* dataAddrMap_filepath
+            </text>
+            <text x="6.5" y="368.5">
+                void* topAddr)
+            </text>
+        </g>
+        <path d="M 658.58 241 L 456.14 92.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 451.9 89.66 L 459.62 90.97 L 456.14 92.76 L 455.48 96.62 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 165px; margin-left: 554px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                フォーマット参考
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="554" y="168" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    フォーマット参考
+                </text>
+            </switch>
+        </g>
+        <path d="M 747.18 391 L 740.97 424.74" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 740.02 429.9 L 737.84 422.38 L 740.97 424.74 L 744.73 423.65 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 411px; margin-left: 744px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                呼び出し
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="744" y="414" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    呼び出し
+                </text>
+            </switch>
+        </g>
+        <path d="M 621 267 L 621 241 L 901 241 L 901 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 621 267 L 621 391 L 901 391 L 901 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 621 267 L 901 267" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="760.5" y="258.5">
+                InfraLogic.c (.h)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-625-272-272-124-0)" font-size="12px">
+            <text x="626.5" y="284.5">
+                static uint instructionPointer
+            </text>
+            <text x="626.5" y="312.5">
+                int InitClock(void* textAreaHead)
+            </text>
+            <text x="626.5" y="326.5">
+                int AdvanceClock(
+            </text>
+            <text x="626.5" y="340.5">
+                void* textAreaHead,
+            </text>
+            <text x="626.5" y="354.5">
+                void* DataAreaHead)
+            </text>
+            <text x="626.5" y="382.5">
+                - decodeInstruction()
+            </text>
+            <text x="626.5" y="396.5">
+                - Action()
+            </text>
+            <text x="626.5" y="410.5">
+                - nextFetch()
+            </text>
+        </g>
+        <path d="M 311 27 L 311 1 L 451 1 L 451 27" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 27 L 311 151 L 451 151 L 451 27" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 311 27 L 451 27" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="380.5" y="18.5">
+                General.h
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-315-32-132-124-0)" font-size="12px">
+            <text x="316.5" y="44.5">
+                struct SpfInstruction{}
+            </text>
+        </g>
+        <path d="M 621 457 L 621 431 L 831 431 L 831 457" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 621 457 L 621 581 L 831 581 L 831 457" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 621 457 L 831 457" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="725.5" y="448.5">
+                InfraLogic_Actions.c (.h)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-625-462-202-124-0)" font-size="12px">
+            <text x="626.5" y="474.5">
+                各種アクション(void* src, void* dst)
+            </text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
